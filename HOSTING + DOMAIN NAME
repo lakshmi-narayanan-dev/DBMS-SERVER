@@ -1,8 +1,52 @@
+-----------------
+Network + Server
+-----------------
+Host = Server , Hosting
+IP = Internet Protocol
+
+Domain name vs Hosting vs Cpanel vs FTP vs Database
+
+- Domain Name is like a name to an IP Address / Website. 
+- Hosting is a kind of harddisk/SSD storage to store my code online. [Hostinger , Blue Host , Zola Host]
+- Cpanel is the technical Control panel for your web hosting account. 
+- Database = MongoDB = JSON format = Non-relational DB = Scalable 
+
 ------------
-Hostinger 
+Hostinger + Zolahost
 ------------
+VPS hosting [virtual Private Server] = Dedicated Hosting or server - only you use the entire hardware available - Amazon
+VPS - Amazon, Zolahost VPS - It is buying a dedicated Virtual Server to my website or web application
+Shared hosting is slower compare to VPS hosting [virtual Private Server]
+Shared Hosting is used my two or more customer to make money using small scale customers by Hosting companies.
+
+-----------
+Cpanel
+----------
+It uploads files and folders securely to the web hosting location.
+Cpanel is a kind of Admin Access to the server - email , dependencies , name , connect domain name update. 
+Example - Plesk , Hpanel , Cpanel
+
+-----------
+FTP
+----------
+FTP is File Transfer Protocol , Transferring of Files from one computer to another [here's to the server]
+SFTP - Secure FTP
+FTP client > where you use to upload Files to Server
+Filezilla + Cyberduck
+
+To return to our analogy: If your hosting account were a car or an airplane, 
+FTP would be the equivalent of keys to doors and the FTP client would be the 
+stairs that lead you to the doors.
+
+Bank is my Hosting account - ATM/CDM is my Cpanel - ATM card is my FTP client
+Sometimes i dont need an ATM to withdrawl money , i can go to the bank - fill a challan [Cpanel] - Get my money.
+
+-----------------------------------------------
+FTP server vs FTP client vs Control Panel ?
+-----------------------------------------------
 
 
 -----------
-Zolahost
+MongoDB
 ----------
+
