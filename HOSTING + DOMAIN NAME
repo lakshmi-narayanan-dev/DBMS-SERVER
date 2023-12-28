@@ -20,7 +20,13 @@ URL = Uniform Resource Locator
 Http port is 80 & No SSL certificate required
 Https port is 443 with SSL certificate required
 
+Forward & Reverse Proxy 
+Load balancer 
+Caching server
+Firewall 
 
+Relational Databases -  PostgreSQL / MySQL
+Non-Relational Databases - MongoDB
 
 --------------
 mail
