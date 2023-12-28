@@ -3,6 +3,8 @@ Network + Server
 -----------------
 Host = Server , Hosting
 IP = Internet Protocol
+172.16.254.1 = ip address [internet protocol]
+country.state.ISP.device
 
 Domain name vs Hosting vs Cpanel vs FTP vs Database
 
