@@ -9,6 +9,18 @@ country.state.ISP.device
 Loopback, IP Address of loopback is 127.0.0.1 = localhost address
 
 
+DNS = Domain Name System, Easy to name instead of ip address of a website
+ISP = Internet Service Provider
+CDN = Content Delivery Network, Used to deliver fast + presents all over the world to increase performance of site. Always use CDN from reputed libraries.
+Fast Network = Wired
+TCP = Transmission Control Protocol, Slow - reliable, Email, Web browsing = Flow Control
+UDP = User Datagram Protocol, Gaming live streams, fast but not guaranteed transfers = No Flow control
+HTTPS = HyperText Transfer Protocol with Secure
+URL = Uniform Resource Locator
+Http port is 80 & No SSL certificate required
+Https port is 443 with SSL certificate required
+
+
 
 --------------
 mail
