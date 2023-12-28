@@ -22,3 +22,18 @@ Hadoop vs Mongo
 ---------------------
 
 https://data-flair.training/blogs/hadoop-vs-mongodb/ 
+
+
+Mongo
+Show dbs = show all database
+db.folder.find(value).count() = show all the count of value entered matches in DB
+9 Http request Methods
+GET [get data from server and no effect on data]
+POST [User data shared to DB using forms or UI actions - Creates a new resource - data included in the body of the request
+PUT [update old data, entire resource is updated once]
+PATCH [update resource, only updates the field that was included in the request]
+DELETE [delete resource]
+HEAD [Check a resource is available to get metadata]
+OPTIONS -
+TRACE
+CONNECT
