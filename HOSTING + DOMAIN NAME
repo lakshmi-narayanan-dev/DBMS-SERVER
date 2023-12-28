@@ -6,6 +6,22 @@ IP = Internet Protocol
 172.16.254.1 = ip address [internet protocol]
 country.state.ISP.device
 
+Loopback, IP Address of loopback is 127.0.0.1 = localhost address
+
+
+
+--------------
+mail
+--------------
+IMAP = Internet Messaging  Access Protocol > Access mail in multiple devices with past mail history shown
+POP3 = Post Office Protocol = receive mail over internet
+TLS = Transport Layer Security
+
+Https - HyperText Transfer Protocol with Secure
+Server Certificate Check -> SSL certificate [Secure Socket Layer] / Server will share the response with certificate 
+to the browser / browser share the certificate to certificate Authority for validation.
+
+
 Domain name vs Hosting vs Cpanel vs FTP vs Database
 
 - Domain Name is like a name to an IP Address / Website. 
@@ -35,6 +51,8 @@ FTP is File Transfer Protocol , Transferring of Files from one computer to anoth
 SFTP - Secure FTP
 FTP client > where you use to upload Files to Server
 Filezilla + Cyberduck
+
+Port 20, 21
 
 To return to our analogy: If your hosting account were a car or an airplane, 
 FTP would be the equivalent of keys to doors and the FTP client would be the 
