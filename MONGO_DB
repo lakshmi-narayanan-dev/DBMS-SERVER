@@ -7,7 +7,20 @@ DB - Stores Client Data
 -------------------------
 VPN + Connection
 --------------------------
+connect to mongoDB - 127.0.0.1:27017 by default.
+$mongo
 
+connect to local network 
+$mongo "mongodb://192.168.1.1 : 27017"
+
+----------
+Operation
+----------
+$ show dbs = show all DB's
+$ db = show current DB
+$ db.dropdatabase() = Delete DB
+
+$ db.courses.findall()
 
 
 
