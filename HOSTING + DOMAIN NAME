@@ -7,8 +7,6 @@ IP = Internet Protocol
 country.state.ISP.device
 
 Loopback, IP Address of loopback is 127.0.0.1 = localhost address
-
-
 DNS = Domain Name System, Easy to name instead of ip address of a website
 ISP = Internet Service Provider
 CDN = Content Delivery Network, Used to deliver fast + presents all over the world to increase performance of site. Always use CDN from reputed libraries.
@@ -19,6 +17,12 @@ HTTPS = HyperText Transfer Protocol with Secure
 URL = Uniform Resource Locator
 Http port is 80 & No SSL certificate required
 Https port is 443 with SSL certificate required
+
+----------------------------------------------------------------------------------
+Code in your local is useless , it should be pushed online to accessed by anyone.
+----------------------------------------------------------------------------------
+
+
 
 Forward & Reverse Proxy 
 Load balancer 
@@ -82,6 +86,19 @@ Sometimes i dont need an ATM to withdrawl money , i can go to the bank - fill a 
 -----------------------------------------------
 FTP server vs FTP client vs Control Panel ?
 -----------------------------------------------
+
+
+
+
+Hosting Method
+---------------
+1. Technology & storage available
+2. Interface with cpanel Dashboard
+3. Reviews
+4. SSL + Security
+5. support
+
+
 
 
 -----------
